@@ -1,0 +1,11 @@
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/bin/Debug/net7.0/KomodoCafe.Data.deps.json
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/bin/Debug/net7.0/KomodoCafe.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/bin/Debug/net7.0/KomodoCafe.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.AssemblyInfoInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.AssemblyInfo.cs
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.csproj.CoreCompileInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/refint/KomodoCafe.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/KomodoCafe.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/Debug/net7.0/ref/KomodoCafe.Data.dll

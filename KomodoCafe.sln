@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe.Data", "KomodoCafe.Data\KomodoCafe.Data.csproj", "{3634AA46-600A-4363-8863-BA5B58E2A62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe.UI", "KomodoCafe.UI\KomodoCafe.UI.csproj", "{8A7EB7D9-305E-46B0-BA2D-7E4B830D0439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeRepository", "KomodoCafe.Repository\KomodoCafeRepository.csproj", "{6FF039DF-DB97-4A7A-B611-2CA5A0ACC4EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe.Tests", "KomodoCafe.Tests\KomodoCafe.Tests.csproj", "{ABE2717D-C196-4017-A886-4E51724E57D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3634AA46-600A-4363-8863-BA5B58E2A62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3634AA46-600A-4363-8863-BA5B58E2A62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3634AA46-600A-4363-8863-BA5B58E2A62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3634AA46-600A-4363-8863-BA5B58E2A62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7EB7D9-305E-46B0-BA2D-7E4B830D0439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7EB7D9-305E-46B0-BA2D-7E4B830D0439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7EB7D9-305E-46B0-BA2D-7E4B830D0439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7EB7D9-305E-46B0-BA2D-7E4B830D0439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF039DF-DB97-4A7A-B611-2CA5A0ACC4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF039DF-DB97-4A7A-B611-2CA5A0ACC4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF039DF-DB97-4A7A-B611-2CA5A0ACC4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF039DF-DB97-4A7A-B611-2CA5A0ACC4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE2717D-C196-4017-A886-4E51724E57D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE2717D-C196-4017-A886-4E51724E57D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE2717D-C196-4017-A886-4E51724E57D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE2717D-C196-4017-A886-4E51724E57D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

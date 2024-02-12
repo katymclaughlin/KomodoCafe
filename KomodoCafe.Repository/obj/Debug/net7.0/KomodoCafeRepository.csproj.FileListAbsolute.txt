@@ -1,0 +1,15 @@
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/bin/Debug/net7.0/KomodoCafeRepository.deps.json
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/bin/Debug/net7.0/KomodoCafeRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/bin/Debug/net7.0/KomodoCafeRepository.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.AssemblyInfoInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.AssemblyInfo.cs
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.csproj.CoreCompileInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/refint/KomodoCafeRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/ref/KomodoCafeRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.csproj.AssemblyReference.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/bin/Debug/net7.0/KomodoCafe.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/bin/Debug/net7.0/KomodoCafe.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/Debug/net7.0/KomodoCafeRepository.csproj.CopyComplete

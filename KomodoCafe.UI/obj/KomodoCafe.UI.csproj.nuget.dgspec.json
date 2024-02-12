@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.UI/KomodoCafe.UI.csproj": {}
+  },
+  "projects": {
+    "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj",
+        "projectName": "KomodoCafe.Data",
+        "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj",
+        "packagesPath": "/Users/katymclaughlin/.nuget/packages/",
+        "outputPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/katymclaughlin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/KomodoCafeRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/KomodoCafeRepository.csproj",
+        "projectName": "KomodoCafeRepository",
+        "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/KomodoCafeRepository.csproj",
+        "packagesPath": "/Users/katymclaughlin/.nuget/packages/",
+        "outputPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/katymclaughlin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj": {
+                "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.UI/KomodoCafe.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.UI/KomodoCafe.UI.csproj",
+        "projectName": "KomodoCafe.UI",
+        "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.UI/KomodoCafe.UI.csproj",
+        "packagesPath": "/Users/katymclaughlin/.nuget/packages/",
+        "outputPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.UI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/katymclaughlin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj": {
+                "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Data/KomodoCafe.Data.csproj"
+              },
+              "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/KomodoCafeRepository.csproj": {
+                "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/KomodoCafe/KomodoCafe.Repository/KomodoCafeRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
